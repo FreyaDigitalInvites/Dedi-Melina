@@ -10,14 +10,6 @@ body, html {
     min-height: 100vh;
 }
 
-body {
-    -webkit-user-select: none; 
-    -moz-user-select: none;   
-    -ms-user-select: none;    
-    user-select: none; 
-  }
-  
-
 h1, h2, h3 {
     font-family: "Allura", cursive;
 }
@@ -33,7 +25,7 @@ body {
     max-height: 700px;
     justify-content: center;
     align-items: center;
-    background-image: url("/img/img-wd03.jpg");
+    background-image: url("https://freyadigitalinvites.github.io/Dedi-Melina/img/img-wd03.jpg");
     background-size: cover;
     background-position: center;
     background-origin: content-box;
@@ -152,7 +144,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/img/background_images.jpg");
+    background-image: url("https://freyadigitalinvites.github.io/Dedi-Melina/img/background_images.jpg");
     background-size: 100% 100%;
     background-position: center;
     background-origin: content-box;
@@ -214,7 +206,7 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: #00000067;
-    /* background-image: url("/img/background_images.png");
+    /* background-image: url("https://freyadigitalinvites.github.io/Dedi-Melina/img/background_images.png");
     background-size: 100% 100%;
     background-position: center;
     background-origin: content-box; */
@@ -248,7 +240,7 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: #00000067;
-    background-image: url("/img/akad_background.jpg");
+    background-image: url("https://freyadigitalinvites.github.io/Dedi-Melina/img/akad_background.jpg");
     background-size: 100% 100%;
     background-position: center;
     background-origin: content-box;
@@ -330,7 +322,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/img/background_images.jpg");
+    background-image: url("https://freyadigitalinvites.github.io/Dedi-Melina/img/background_images.jpg");
     background-size: 100% 100%;
     background-position: center;
     background-origin: content-box;
@@ -404,7 +396,7 @@ button.prev:hover, button.next:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/img/img-wd05.jpg");
+    background-image: url("https://freyadigitalinvites.github.io/Dedi-Melina/img/img-wd05.jpg");
     background-size: cover;
     background-position: center;
     background-origin: content-box;
@@ -483,7 +475,7 @@ form {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/img/background_images.jpg");
+    background-image: url("https://freyadigitalinvites.github.io/Dedi-Melina/img/background_images.jpg");
     background-size: cover;
     background-position: center;
     background-origin: content-box;
@@ -555,7 +547,7 @@ form {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/img/img-wd01.jpg");
+    background-image: url("https://freyadigitalinvites.github.io/Dedi-Melina/img/img-wd01.jpg");
     background-size: cover;
     background-position: center;
     background-origin: content-box;
