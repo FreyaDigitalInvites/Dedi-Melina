@@ -46,7 +46,6 @@ document.addEventListener("DOMContentLoaded", function() {
         fadeElements.forEach(element => element.classList.add('visible'));
     }
 
-    toggleMusic();
 });
 
 function openInvitation() {
