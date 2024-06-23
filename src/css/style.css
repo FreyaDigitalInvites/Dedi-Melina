@@ -557,7 +557,9 @@ form {
 
 .album-content {
     width: 90%;
-    height: auto;
+    height: 50vh;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
     display: flex;
     color: goldenrod;
     flex-direction: column;
@@ -574,9 +576,7 @@ form {
     color: rgb(255, 255, 255);
 }
 .album img {
-    width: auto;
-    max-width: 300px;
-    max-height: 400px;
+    width: 100%;
     height: auto;
     background-position: center; 
     border-radius: 15px;
