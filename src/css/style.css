@@ -152,7 +152,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/img/background_images.png");
+    background-image: url("/img/background_images.jpg");
     background-size: 100% 100%;
     background-position: center;
     background-origin: content-box;
@@ -248,7 +248,7 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: #00000067;
-    background-image: url("/img/akad_background.png");
+    background-image: url("/img/akad_background.jpg");
     background-size: 100% 100%;
     background-position: center;
     background-origin: content-box;
@@ -330,7 +330,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/img/background_images.png");
+    background-image: url("/img/background_images.jpg");
     background-size: 100% 100%;
     background-position: center;
     background-origin: content-box;
@@ -483,7 +483,7 @@ form {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("/img/background_images.png");
+    background-image: url("/img/background_images.jpg");
     background-size: cover;
     background-position: center;
     background-origin: content-box;
